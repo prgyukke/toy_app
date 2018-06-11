@@ -18,7 +18,7 @@ development:
   <<: *default
   username: app
   database: app
-  password: GdS)FP6*B7zJ
+  password: yQqDx.4(Cnue
   host: db
 
 # Warning: The database defined as "test" will be erased and
